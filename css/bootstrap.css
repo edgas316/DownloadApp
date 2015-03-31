@@ -1572,7 +1572,8 @@ pre code {
   font-family: Roboto, sans-serif;
   vertical-align: center;
   text-align: justify;
-  max-width: 1024px;
+  min-width: 1025px;
+  max-width: 1025px;
   margin-right: auto;
   margin-left: auto;
   padding-left: 15px;
@@ -1583,7 +1584,8 @@ pre code {
   font-family: Roboto, sans-serif;
   position: absolute;
   top: 1px;
-  max-width: 1024px;
+  min-width: 1000px;
+  max-width: 1025px;
   font-family: Roboto Reg;
   text-align: center;
   margin-right: auto;
